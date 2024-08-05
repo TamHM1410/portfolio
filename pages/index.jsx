@@ -17,9 +17,12 @@ export default function HomePage() {
             <Link href="/projects">
               <button className={styles.button}>View Work</button>
             </Link>
-            <Link href="/contact">
-              <button className={styles.outlined}>Contact Me</button>
+            <Link href="./NguyenHoangThien_Fullstack.pdf">
+              <button className={styles.outlined}>My Résume</button>
             </Link>
+            {/* <Link href="./NguyenHoangThien_Fullstack.pdf" >
+              <button className={styles.button}>Download MyCV</button>
+            </Link> */}
           </div>
           <Illustration className={styles.illustration} />
         </div>
