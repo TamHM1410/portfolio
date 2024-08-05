@@ -1,60 +1,36 @@
 [
   {
     "id": 1,
-    "name": "React Counter",
-    "image": "https://imgur.com/A8NYxAA.png",
-    "description": "A Counter app that allows to change counr using React",
+    "name": "Hostie",
+    "image": "https://exe201-core.s3.ap-southeast-1.amazonaws.com/residence/Screenshot+from+2024-08-05+09-09-54.png",
+    "description": "Hostie is my startup business aimed at connecting brokers and property owners in the short-term accommodation sector. Utilizing technologies like Golang and Java, Hostie enhances communication and operational efficiency, demonstrating my capability to innovate and integrate advanced solutions in hospitality management",
     "tags": [
-      "react",
+      "golang",
+      "elasticsearch",
+      "websocket",
+      "redis",
+      "rabbitmq",
+      "postgres",
+      "nextjs",
       "html",
       "css",
-      "javascript"
+      "typescript"
     ],
-    "source_code": "",
-    "demo": "https://friendly-austin-253745.netlify.app/"
+    "demo": "https://thehostie.com"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
+    "name": "AleoDNS",
+    "image": "https://exe201-core.s3.ap-southeast-1.amazonaws.com/residence/aleodns.png",
+    "description": "Domain registration in partnership with blockchain platform Aleo",
     "tags": [
       "react",
       "node",
       "mongodb",
       "redux",
-      "website",
-      "material-ui"
+      "aleo",
+      "nodejs"
     ],
-    "demo": "https://www.pcbcupid.com/"
-  },
-  {
-    "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": [
-      "react",
-      "node",
-      "mongodb",
-      "redux",
-      "tailwindcss",
-      "material-ui"
-    ],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
-  },
-  {
-    "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": [
-      "next",
-      "redux",
-      "tailwindcss"
-    ],
-    "source_code": "https://github.com/HamzaZaidiX/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code": "https://github.com/devkupro/AleoDNS"
   }
 ]

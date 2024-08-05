@@ -7,9 +7,9 @@ const ProjectsPage = ({ projects }) => {
     <>
       <h2>Look What I've Built</h2>
       <div className={styles.container}>
-        {/* {projects.map((project) => (
+        {projects.map((project) => (
           <ProjectCard key={project.id} project={project} />
-        ))} */}
+        ))}
       </div>
     </>
   );

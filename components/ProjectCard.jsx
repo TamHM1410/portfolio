@@ -26,6 +26,7 @@ const ProjectCard = ({ project }) => {
               Source Code
             </a>
           )}
+          {project.demo && 
           <a
             href={project.demo}
             target="_blank"
@@ -33,7 +34,7 @@ const ProjectCard = ({ project }) => {
             className={styles.underline}
           >
             Live Demo
-          </a>
+          </a>}
         </div>
       </div>
     </div>
