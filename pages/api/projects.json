@@ -26,5 +26,13 @@
     "description": "My pet project",
     "tags": ["next js", "node", "mongodb", "zustand", "nodejs", "Material-ui"],
     "source_code": "https://github.com/TamHM1410/be_swp"
+  },
+  {
+    "id": 3,
+    "name": "Occo landing page",
+    "image": "https://testlanding-alpha.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flover.cf5867ff.png&w=2048&q=75",
+    "description": "Landing page for dating app",
+    "tags": ["next js", "Tailwind css"],
+    "demo":"https://testlanding-alpha.vercel.app/"
   }
 ]
