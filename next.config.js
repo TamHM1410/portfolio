@@ -7,6 +7,8 @@ module.exports = {
       'exe201-core.s3.ap-southeast-1.amazonaws.com',
       'testlanding-alpha.vercel.app'
     ],
+        unoptimized: true,
+
    
   },
 };
