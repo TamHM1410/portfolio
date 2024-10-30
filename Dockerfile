@@ -17,7 +17,7 @@ COPY . .
 # RUN npm run build
 
 # Expose the port that the application will run on
-EXPOSE 3000
+EXPOSE 10000
 
-# Command to run the application
-CMD ["npm", "run", "dev"]
+# Command to run the application, setting the PORT variable
+CMD ["sh", "-c", "PORT=10000 npm run dev"]
