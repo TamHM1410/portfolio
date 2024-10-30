@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Hostie",
-    "image": "https://exe201-core.s3.ap-southeast-1.amazonaws.com/residence/Screenshot+from+2024-08-05+09-09-54.png",
+    "image": "/hostie.png",
     "description": "Hostie is my startup business aimed at connecting brokers and property owners in the short-term accommodation sector. Utilizing technologies like Golang , Java and Javascript, Hostie enhances communication and operational efficiency, demonstrating my capability to innovate and integrate advanced solutions in hospitality management",
     "tags": [
       "golang",
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "name": "Pc store",
-    "image": "https://exe201-core.s3.ap-southeast-1.amazonaws.com/residence/aleodns.png",
+    "image": "/pc.png",
     "description": "My pet project",
     "tags": ["next js", "node", "mongodb", "zustand", "nodejs", "Material-ui"],
     "source_code": "https://github.com/TamHM1410/be_swp"
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "name": "Occo landing page",
-    "image": "https://testlanding-alpha.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flover.cf5867ff.png&w=2048&q=75",
+    "image": "occo.png",
     "description": "Landing page for dating app",
     "tags": ["next js", "Tailwind css"],
     "demo":"https://testlanding-alpha.vercel.app/"
