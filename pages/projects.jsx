@@ -4,7 +4,7 @@ import styles from '../styles/ProjectsPage.module.css';
 
 
 
-const listImage = ['/hostie.png', './public/pc.png', '/occo.png'];
+const listImage = ['/hostie.png', '/public/pc.png', '/occo.png'];
 
 const ProjectsPage = ({ projects }) => {
   return (
