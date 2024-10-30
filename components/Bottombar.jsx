@@ -11,7 +11,7 @@ const Bottombar = () => {
     <footer className={styles.bottomBar}>
       <div className={styles.container}>
         <a
-          href="https://github.com/webbythien"
+          href="https://github.com/TamHM1410"
           target="_blank"
           rel="noreferrer"
           className={styles.section}
