@@ -3,34 +3,28 @@
     "id": 1,
     "name": "Hostie",
     "image": "https://exe201-core.s3.ap-southeast-1.amazonaws.com/residence/Screenshot+from+2024-08-05+09-09-54.png",
-    "description": "Hostie is my startup business aimed at connecting brokers and property owners in the short-term accommodation sector. Utilizing technologies like Golang and Java, Hostie enhances communication and operational efficiency, demonstrating my capability to innovate and integrate advanced solutions in hospitality management",
+    "description": "Hostie is my startup business aimed at connecting brokers and property owners in the short-term accommodation sector. Utilizing technologies like Golang , Java and Javascript, Hostie enhances communication and operational efficiency, demonstrating my capability to innovate and integrate advanced solutions in hospitality management",
     "tags": [
       "golang",
-      "elasticsearch",
-      "websocket",
-      "redis",
+      "java",
+      "javascript",
+      "socket io",
       "rabbitmq",
       "postgres",
       "nextjs",
       "html",
       "css",
-      "typescript"
+      "typescript",
+      "Material-ui"
     ],
     "demo": "https://thehostie.com"
   },
   {
     "id": 2,
-    "name": "AleoDNS",
+    "name": "Pc store",
     "image": "https://exe201-core.s3.ap-southeast-1.amazonaws.com/residence/aleodns.png",
-    "description": "Domain registration in partnership with blockchain platform Aleo",
-    "tags": [
-      "react",
-      "node",
-      "mongodb",
-      "redux",
-      "aleo",
-      "nodejs"
-    ],
-    "source_code": "https://github.com/devkupro/AleoDNS"
+    "description": "My pet project",
+    "tags": ["next js", "node", "mongodb", "zustand", "nodejs", "Material-ui"],
+    "source_code": "https://github.com/TamHM1410/be_swp"
   }
 ]

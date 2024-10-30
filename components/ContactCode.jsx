@@ -6,50 +6,45 @@ const ContactCode = () => {
       <p className={styles.line}>
         <span className={styles.className}>.socials</span> &#123;
       </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;website:{" "}
-        <a href="https://webbythien.com" target="_blank" rel="noopener">
-          webbythien.com
-        </a>
-        ;
-      </p>
+    
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;email:{" "}
         <a
-          href="mailto:thiengk563@gmail.com"
+          href="mailto:hunhminhtam@=@gmail.com"
           target="_blank"
           rel="noopener"
         >
-          thiengk563@gmail.com
+          hunhminhtam@gmail.com
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;github:{" "}
-        <a href="https://github.com/webbythien" target="_blank" rel="noopener">
-          Webbythien
+        <a href="https://github.com/TamHM1410" target="_blank" rel="noopener">
+          TamHM1410
+        </a>
+        ;
+      </p>
+     
+      <p className={styles.line}>
+        &nbsp;&nbsp;&nbsp;facebook:{" "}
+        <a
+          href="https://www.facebook.com/toilatam1410/"
+          target="_blank"
+          rel="noopener"
+        >
+          Huynh Minh Tam
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;linkedin:{" "}
+        &nbsp;&nbsp;&nbsp;instagram:{" "}
         <a
-          href="https://www.linkedin.com/in/thien-nguyen-web/"
+          href="https://www.instagram.com/hunhmihtmmm/"
           target="_blank"
           rel="noopener"
         >
-          thien-nguyen-web
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;twitter:{" "}
-        <a
-          href="https://x.com/webbythien"
-          target="_blank"
-          rel="noopener"
-        >
-          Luke Nguyen
+          Huynh Minh Tam
         </a>
         ;
       </p>
