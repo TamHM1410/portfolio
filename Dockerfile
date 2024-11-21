@@ -40,7 +40,7 @@ CMD ["npm", "run", "dev"]
 
 
 # Expose the port that the application will run on
-EXPOSE 10000
+EXPOSE 3000
 
 # Command to run the application, setting the PORT variable
-CMD ["sh", "-c", "PORT=10000 npm run dev"]
+CMD ["sh", "-c", "PORT=3000 npm run dev"]
