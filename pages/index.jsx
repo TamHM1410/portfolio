@@ -20,9 +20,7 @@ export default function HomePage() {
             <Link href="./HuynhMinhTam_Fullstack.pdf">
               <button className={styles.outlined}>My Résume</button>
             </Link>
-            {/* <Link href="./NguyenHoangThien_Fullstack.pdf" >
-              <button className={styles.button}>Download MyCV</button>
-            </Link> */}
+          
           </div>
           <Illustration className={styles.illustration} />
         </div>
